@@ -8777,3 +8777,17 @@ label.panel-block {
   color: #4a0310; }
   .navbar.is-primary .navbar-start > .navbar-item.disabled:hover {
     color: #190105; }
+
+/* 縁取りテキスト */
+.hero .fuchidori-text {
+  color : #ffffff;
+  letter-spacing : 4px;
+  text-shadow : 2px  2px 5px #071160,
+                -2px  2px 5px #071160,
+                2px -2px 5px #071160,
+                -2px -2px 5px #071160,
+                2px  0px 5px #071160,
+                0px  2px 5px #071160,
+                -2px  0px 5px #071160,
+                0px -2px 5px #071160;
+}

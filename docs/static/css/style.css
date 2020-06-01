@@ -1451,7 +1451,8 @@ a.box:active {
   padding-top: calc(0.5em - 1px);
   text-align: center;
   white-space: nowrap;
-  height: auto; }
+  height: auto;
+  width: 14em; }
   .button strong {
     color: inherit; }
   .button .icon, .button .icon.is-small, .button .icon.is-medium, .button .icon.is-large {
